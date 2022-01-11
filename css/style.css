@@ -1053,70 +1053,8 @@ nav.open .links {
       left: 65%;
     }
   
-    .record-circle {
-      width: 150px;
-      height: 150px;
-      border-width: 3px;
-    }
-  
-    .record-circle .number {
-      font-size: 1.8rem;
-    }
-  
-    .record-circle .sub-title {
-      font-size: 0.9rem;
-    }
-  
-    .blog-wrap {
-      margin: 0.7rem 0.5rem;
-    }
-  
-    .blog-card {
-      max-width: 315px;
-    }
-  
-    .blog-image {
-      height: 200px;
-    }
-  
-    .blog-content {
-      padding: 1.8rem 1.7rem 1.9rem 1.7rem;
-    }
-  
-    .blog-info {
-      margin-bottom: 0.2rem;
-    }
-  
-    .blog-info > * {
-      font-size: 0.75rem !important;
-    }
-  
-    .blog-user i {
-      font-size: 0.8rem;
-    }
-  
-    .blog-text {
-      font-size: 0.9rem;
-      margin: 0.2rem 0 0.8rem 0;
-    }
-  
-    .rate {
-      font-size: 1.15rem;
-      margin-bottom: 1.1rem;
-    }
-  
-    .review-text {
-      font-size: 1.05rem;
-    }
-  
-
-    .swiper-button-next {
-      right: 2.5rem;
-    }
-  
-    .swiper-button-prev {
-      right: 4.5rem;
-    }
+    
+ 
   
     .contact {
       padding: 9rem 0 6rem 0;
@@ -1153,15 +1091,8 @@ nav.open .links {
       font-size: 1.05rem;
     }
   
-    .contact-input {
-      font-size: 0.9rem;
-      padding: 0.9rem 1.6rem;
-      margin: 0.4rem 0;
-    }
   
-    .hireme {
-      padding: 8rem 0;
-    }
+   
   
     .footer {
       padding: 4rem 0;
@@ -1175,19 +1106,6 @@ nav.open .links {
       margin-bottom: 0.5rem;
     }
   
-    .footer-input-wrap {
-      height: 36px;
-      margin-top: 0.8rem;
-    }
-  
-    .footer-input {
-      font-size: 0.9rem;
-      padding: 0 1.2rem;
-    }
-  
-    .input-arrow {
-      font-size: 1.2rem;
-    }
   
     .copyright .text {
       font-size: 0.95rem;
@@ -1201,9 +1119,7 @@ nav.open .links {
       margin: 0 0.8rem;
     }
   
-    .social-media a {
-      font-size: 1.05rem;
-    }
+  
   
     .back-btn-wrap {
       margin-left: 1.3rem;
@@ -1661,8 +1577,9 @@ nav.open .links {
     /*Edited*/
 
     .contact-icon {
-      min-width: 50px;
-      height: 70px;
+      padding: 0%;
+      min-width: 30px;
+      height: 60px;
       display: inline-block;
       border-radius: 45%;
       background-color: var(--main-color);
@@ -1672,7 +1589,6 @@ nav.open .links {
       margin-right: 1rem;
     }
   
- 
     
 
 /*Edited*/
